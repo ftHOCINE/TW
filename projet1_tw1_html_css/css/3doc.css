@@ -1,0 +1,161 @@
+
+div.gauche{
+		margin-top:70px;
+		position: fixed;
+		float:left;
+		background-image:url("../Images/Img.jpg");
+		padding-top:10px;
+		box-shadow:5px 4px 3px 3px;
+		border-radius:8px;
+		padding-right:4px;
+		font-size:20px;
+		color:black;
+		width:280px;
+		height:570px;
+		}
+div.gauche ol{padding-bottom:100px;
+			color:white;
+			padding-top:110px;}
+
+div.droite{margin-left:300px;color:white;
+}
+h1{color:red}
+ 
+div.photo{ border-radius:8px;
+			padding:10px;
+			width:1000px;
+			}
+
+
+
+div.accu{
+padding-left:35px;
+position: fixed;
+float:left;
+}
+
+span.dra	{	position: fixed;
+		float:left;
+		padding-top:10px;
+		padding-left:45px;
+		
+
+}
+em{color:rgb(155,235,255);}
+
+ol div.réseauso{padding-top:40px;
+padding-left:2px;
+}
+
+div.autre	{
+padding-top:10px;
+padding-bottom:10px;
+border-radius:8px;
+margin-left:30px;
+margin-right:30px;
+}
+
+div.autre a{padding-left:1150px;}
+
+
+
+
+div.gén{
+padding-top:10px;
+padding-bottom:30px;
+padding-left:20px;
+padding-right:20px;
+border-radius:20px;
+margin-top:20px;
+}
+div.contenu{
+padding-top:10px;
+padding-bottom:10px;
+padding-left:30px;
+padding-right:10px;
+border-radius:20px;
+margin-top:40px;
+}
+
+
+span.texim{float:right;
+display:block;
+clear: both;
+
+}
+
+
+
+div.imgcote{
+ 
+margin-left:10px;
+    float:right;
+    padding-top:10px;
+padding-bottom:10px;
+padding-left:10px;
+padding-right:10px;
+border-radius:10px;
+background-image:url("../Images/arr1.jpg");}
+
+span.dia{  font-size: 18px;
+color:white;
+
+ font-family: Impact, "Arial ";
+
+}
+table{border-collapse: collapse;
+ width:700px;
+float: right;}
+ th{border:1px solid black;
+ 	width:50px;
+ 	text-align: center;
+ 	width: 30px;}
+td{border:1px solid black;
+ 	width:50px;
+ 	text-align: center;}
+
+
+
+div.photo.fondb{background-image:url("../Images/Img.jpg");
+
+width:1245px;}
+
+
+
+div.gén{height:480px;}
+
+
+
+
+div.gén{background-image:url("../Images/ab2.jpg")}
+div.contenu{background-image:url("../Images/ab2.jpg");}
+div.autre	{background-image:url("../Images/arr2.jpg");}
+
+div.autre img:hover { transform: scale(1.03); }
+
+
+
+
+
+
+table:hover { transform: scale(1.01); }
+
+footer{float:right;
+width:1340px;
+margin-left: 400px;
+
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+
+h2{
+font-family: Fantasy;
+color:lightblue;}
+
+h3{
+padding-left:10px;
+color:lightgreen;}
+
+
+

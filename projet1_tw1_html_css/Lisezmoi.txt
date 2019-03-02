@@ -1,0 +1,9 @@
+Auteur Ferhat HOCINE
+
+#J'ai utiliser les selecteurs de plusieurs maniere (les id , les classes...) 
+#J'ai utiliser plusieurs balise (div, h1, h2, span , ol, ul, em, table...) 
+#Sur ma page d'acceuil il y'a 3 possibilités d'acceder au 3 autres pages
+#Sur chaque une de mes pages il y'a une possibilité d'acceder au 2 autres pages
+#Sur chaque une de mes pages il y'a une possibilité de retour au sommaire
+
+#Pour le photo qui défile j ai crée des gif car la balise marque n'est pas accepter par le validateur

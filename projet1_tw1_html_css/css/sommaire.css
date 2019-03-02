@@ -1,0 +1,33 @@
+div.ac{width:350px;
+height: 250px;
+margin-top: 50px;
+margin-right:130px
+}
+
+
+
+div.ac.be{
+float:left;
+}
+
+div.ac.br{
+float:right;
+}
+
+div.ac.ma{
+float:left;
+margin-left: 100px;
+}
+
+div.f{height: 400px;
+}
+
+div.ac:hover { transform: scale(1.08); }
+
+div.index {background-image: url("../Images/Europe.jpg");
+width:1600px;
+height:200px;}
+div.ind {background-image: url("../Images/euro.jpg");
+width:1600px;
+height:380px;}
+

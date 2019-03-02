@@ -1,0 +1,21 @@
+div.photo img{
+ border-width:8px;
+ border-style:solid;
+ border-color:white ;
+border-radius:60px;}
+
+
+body{background-image:url("../Images/Html.jpg");
+color:white;}
+
+p{padding-left:20px;}
+
+div.texte{
+padding-top:10px;
+padding-bottom:30px;
+padding-left:20px;
+padding-right:20px;
+border-radius:20px;
+margin-top:20px;
+}
+div.texte{background-image:url("../Images/ab1.jpg");}
