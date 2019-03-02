@@ -1,0 +1,119 @@
+
+
+
+#loginform {
+	margin: 0 !important;
+	padding: 0 !important;
+	background: transparent !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+#login form p {
+	margin: 0;
+}
+
+
+
+body {
+	color: #17579f;
+	font-size: 14px;
+	margin: 0;
+    padding: 0;
+    line-height: 1.4em;
+    background: #f1f1f1;
+
+min-width: 0;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+a {
+	color: #555d66;
+	text-decoration: underline ;
+	font-weight: normal;
+	outline: 0;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
+
+
+
+p {
+	line-height: 1.5;
+	margin-bottom: 1em;
+}
+
+
+
+
+
+
+
+#login {
+	width: 350px;
+	padding: 24px;
+	margin: 72px auto 68px; /* top and bottom values of h1 and #nav */
+	background: #fff;
+	position: relative;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+#login h1 {
+	text-align: center;
+	margin-bottom: 24px;
+	position: absolute;
+	top: -72px;
+	width: 100%;
+	left: 0;
+	color: #a800ff;
+}
+
+
+
+
+
+#login #nav {
+	font-size: 13px;
+	padding: 0;
+	margin: 24px auto;
+	text-align: center;
+	position: absolute;
+	left: 0;
+	bottom: -68px;
+	width: 100%;
+}
+
+
+
+form {
+	margin-top: 24px;
+}
+
+form p {
+	margin-bottom: 0;
+}
+
+#form-desc{width: 100%;}
+
+#but {
+	margin: 8px 0 0 0 !important;
+	
+}
+
+form input[type="text"],
+form input[type="password"] {
+	width: 100%;
+	padding: 3px 10px;
+	margin: 2px 6px 16px 0;
+	height: 40px;
+	color: #23282d;
+	font-weight: 400;
+}
+

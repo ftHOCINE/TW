@@ -1,0 +1,164 @@
+header{
+  height : 100px;
+  background-color : #eee;
+  margin : 0;
+}
+html,body {
+  padding : 0;
+  margin  : 0;
+
+}
+body{background:#fff7f7;}
+
+#content1 {
+    padding: 15px 30px;
+    width: 23%;
+    height: 200px;
+    border-radius: 6px;
+    border: 1px solid #333;
+    margin: 1% 11%;
+    background: #f4f8ff;
+}
+.cn {
+ display: inline-block;
+ vertical-align: middle;
+ float: none;
+}
+#content2 {
+    padding: 15px 30px;
+    width: 23%;
+    height: 200px;
+    border-radius: 6px;
+    border: 1px solid #333;
+    margin-left: 11%;
+    background: #f4f8ff;
+}
+footer {
+  margin-top : 0px;
+  padding : 15px;
+}
+
+header img.avatar {
+  height : 70px;
+  max-height : 70px;
+  width : 70px;
+  max-width : 70px;
+  margin-top : 15px;
+  margin-right : 30px;
+  float :right;	
+}
+
+#ps{float:right;padding: 18px 5px;color: #6363b4;}
+#pf{text-align: center;
+    padding: 1px;}
+#bt {
+    padding: 0px 14px;
+    margin: 20px 90px;
+}
+#nav {
+	padding: 0; margin: 0;
+	text-align: center; /* centrer le texte */
+}
+#nav li {
+	display: inline;
+	list-style: none;
+}
+#nav a {
+	display:inline-block;
+	margin: 0 30px;
+}
+
+#nav {
+	padding: 45px; margin: 0;
+}
+#nav li {
+	display: inline;
+	list-style: none; /* nécessaire pour IE7 */
+}
+
+#form-message{
+    height: 60px;
+    width: 270px;
+}
+
+
+
+#nav{
+padding: 8px;
+margin: auto;
+border: 1px solid #333;
+text-align: center;
+border-radius: 6px;
+width: 77%;
+    background: #bca4a4;
+}
+
+
+ #nav a {
+    height: 36px;
+    margin: 0;
+    padding: 0 35px;
+    line-height: 36px;
+    border-left: 1px solid #555;
+    border-right: 1px solid #888;
+    text-decoration: none;
+    color: white;
+    text-shadow: -1px -1px 0 #444;
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+    font-size: 1em;
+}
+
+#bar2{margin-left: 9%;}
+#nav2 {
+    margin: auto;
+    border: 1px solid #333;
+    text-align: center;
+    border-radius: 6px;
+    width: 87%;
+    background: #e6e6e6;
+    display: inline-flex;
+}
+#nav2 li {
+	display: inline;
+	list-style: none;
+        padding-left: 110px;
+}
+
+
+#content3 {
+    padding: 15px 30px;
+    width: 23%;
+    border-radius: 6px;
+    border: 1px solid #333;
+    background: #f4f8ff;
+    margin-left: 36%;
+}
+
+#fl{
+    margin-right: 5px;
+}
+
+table, td,th {
+    border: 1px solid black;
+    border-collapse: collapse
+}
+#i{padding: 2%;
+color: #975aed;}
+
+td, th {
+
+    padding: 15px;
+    text-align: left;
+
+}
+
+#tab {
+    margin-left: 34%;
+    margin-top: 1%;
+}
+#sup{
+
+    margin-top: 2%;
+    margin-left: 19%;
+
+}

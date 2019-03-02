@@ -1,0 +1,125 @@
+
+body{
+background: #f2ebeb;
+}
+
+
+li a:hover{
+	-webkit-transform:
+	rotate(2deg);
+	}
+ul li {
+position: relative;
+list-style:none;
+float: left;
+margin-left : 3%;
+}
+	
+#acc{
+	width:100%;
+	height:8%;
+	background-color:#631877;
+	color : white;
+	font-size: large;
+	line-height:100px;
+	text-align: center;
+	font-family: cursive;
+	border-radius:10px;
+}
+
+#barre{
+	margin:auto;
+	width:99%;
+	height:100px;
+	margin-top: 10px;
+	background-color:silver;
+	border-radius:10px;
+}
+
+fieldset{
+	padding: 20px;
+
+    }
+    
+
+#ev{
+	Background-Color: silver;
+	margin-right: 40px;
+	margin-top:90px;
+	padding: 20px;
+    float:right ;
+    border: 2px black solid ;
+    border-radius: 10px;
+    width: 38%;
+    }
+
+#his{
+	margin-top: 15px;
+	padding: 20px;
+    border: 2px black solid ;
+    border-radius: 10px;
+        height: 100px;
+
+	}
+
+    
+#mes_ab{
+	margin-left: 40px;
+	margin-top: 10px;
+	padding: 15px;
+    float:left ;
+    border: 2px black solid ;
+    border-radius: 10px;
+    Background-Color: silver;
+    height: 400px;
+    width: 40%;
+
+    
+    }
+#menu{
+    border: 2px black solid ;
+    border-radius: 10px;
+    margin:10px;
+    height: 470px;
+    Background-Color: Lavender; 
+    }
+table, td,th {
+    border: 1px solid black;
+    border-collapse: collapse
+}
+td, th {
+
+    padding: 15px;
+    text-align: left;
+
+}
+#connect{
+	padding-top: 1%;
+	text-align: center;
+	 Font-Family: Stencil Std, fantasy;
+    font-style: italic;
+    font-size: 1.6em;
+    font-weight: bold;
+
+   
+
+     }
+#center{
+float:left;
+padding-left:27%}
+
+#left{
+float:left;}
+#right{
+float:right;}
+a{color:4d1377;}
+@media (min-width:1023px) and (max-width:1025px){
+#barre{width:100%;}
+ul li{ margin-left :0px;}
+#mes_ab {height: 290px;}
+#ev {	margin-top:20px;}
+#menu {    height: 345px;
+	
+
+
+}
